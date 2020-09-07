@@ -4,6 +4,8 @@ local CMD_API = {
 	Interface = "WAITING FOR API INTERFACE"
 }
 
+wait(1)
+
 local CMDS = {}
 local _CMDCODEBAR = ("_CMDBAR")
 local CMDBAR
